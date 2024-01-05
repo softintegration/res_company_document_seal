@@ -1,0 +1,86 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* res_company_document_seal
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-05 13:05+0000\n"
+"PO-Revision-Date: 2024-01-05 13:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: res_company_document_seal
+#: model:ir.model,name:res_company_document_seal.model_res_company
+msgid "Companies"
+msgstr "Sociétés"
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company_document_seal__company_id
+msgid "Company"
+msgstr "Société"
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company_document_seal__create_uid
+msgid "Created by"
+msgstr "Crée par"
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company_document_seal__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company_document_seal__display_name
+msgid "Display Name"
+msgstr "Nom"
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company_document_seal__model_id
+msgid "Document"
+msgstr "Document"
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company_document_seal__document_seal
+msgid "Document Seal"
+msgstr "Cachet"
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company__document_seal_ids
+msgid "Documents Seals"
+msgstr "Cachets des documents"
+
+#. module: res_company_document_seal
+#: model_terms:ir.ui.view,arch_db:res_company_document_seal.view_company_form_inherited
+msgid "Documents seals"
+msgstr "Cachets des documents"
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company_document_seal__id
+msgid "ID"
+msgstr ""
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company_document_seal____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company_document_seal__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: res_company_document_seal
+#: model:ir.model.fields,field_description:res_company_document_seal.field_res_company_document_seal__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: res_company_document_seal
+#: model:ir.model,name:res_company_document_seal.model_res_company_document_seal
+msgid "res.company.document.seal"
+msgstr ""
